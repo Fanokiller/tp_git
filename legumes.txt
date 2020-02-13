@@ -1,2 +1,3 @@
 courgette
 poireaux
+aubergine
